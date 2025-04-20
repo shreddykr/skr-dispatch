@@ -45,7 +45,7 @@ for _, dept in ipairs(policeDepartments) do
                     local locationLabel = input[1]
                     local reason = input[2]
                     local code = input[3]
-                    local priority = tonumber(input[3])
+                    local priority = tonumber(input[4])
                     local waypoint = GetFirstBlipInfoId(8)
 
                     if not DoesBlipExist(waypoint) then
