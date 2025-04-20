@@ -32,8 +32,8 @@ for _, dept in ipairs(policeDepartments) do
                     local input = lib.inputDialog(dept.name .. ' Dispatch Alert', {
                         { type = 'input', label = 'Location Name', description = 'e.g. Legion Square', required = true },
                         { type = 'input', label = 'Reason for Call', description = 'e.g. Officer in need of assistance', required = true },
-                         { type = 'input', label = 'Code', description = '10-80', required = true },
-                         { type = 'select', label = 'Priority', options = {
+                        { type = 'input', label = 'Code', description = '10-80', required = true },
+                        { type = 'select', label = 'Priority', options = {
                             { label = 'Priority 1 (Urgent)', value = 1 },
                             { label = 'Priority 2 (Medium)', value = 2 },
                             { label = 'Priority 3 (Low)', value = 3 },
