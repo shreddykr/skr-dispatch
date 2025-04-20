@@ -1,20 +1,20 @@
 -- Add and delete locations below. It was setup for my server, leave it or keep it.
 
 local policeDepartments = {
-    { name = 'MRPD', coords = vec4(442.81, -998.66, 34.97, 182.12) },
-    { name = 'Roxwood PD', coords = vec4(-441.12, 7106.54, 22.38, 293.14) },
-    { name = 'Sandy PD', coords = vec4(1860.34, 3688.21, 38.22, 220.11) },
-    { name = 'Paleto PD', coords = vec4(-447.02, 5995.64, 37.01, 205.17) },
+    { name = 'MRPD', coords = vec4(442.81, -998.66, 34.97, 182.12) }, --gabz
+    { name = 'Roxwood PD', coords = vec4(-441.12, 7106.54, 22.38, 293.14) }, --ambitioneers
+    { name = 'Sandy PD', coords = vec4(1860.34, 3688.21, 38.22, 220.11) }, --gabz
+    { name = 'Paleto PD', coords = vec4(-447.02, 5995.64, 37.01, 205.17) }, --gabz
     { name = 'Military Dispatch', coords = vec4(-2361.85, 3243.44, 92.9, 141.87) },
-    { name = 'Park Ranger', coords = vec4(383.31, 794.82, 190.49, 96.33) },
+    { name = 'Park Ranger', coords = vec4(383.31, 794.82, 190.49, 96.33) }, --gabz
 }
 
 local bankLocations = {
     { name = 'Pacific Bank', coords = vec4(256.9, 228.17, 106.29, 328.56) },
-    { name = 'Diamond Casino', coords = vec4(928.39, 55.03, 59.87, 167.44) },
+    { name = 'Diamond Casino', coords = vec4(928.39, 55.03, 59.87, 167.44) }, --unclejust
     { name = 'Paleto Bank', coords = vec4(-114.22, 6474.03, 31.63, 37.98) },
     { name = 'Vangelico Jewelry', coords = vec4(-630.5, -237.13, 38.05, 204.69) },
-    { name = 'Roxwood Bank', coords = vec4(-2831.72, 6232.25, 9.77, 111.34) },
+    { name = 'Roxwood Bank', coords = vec4(-2831.72, 6232.25, 9.77, 111.34) }, --ambitioneers
 }
 
 --- Do Not Touch Below This
