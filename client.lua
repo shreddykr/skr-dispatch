@@ -11,7 +11,6 @@ local policeDepartments = {
 
 local bankLocations = {
     { name = 'Pacific Bank', coords = vec4(256.9, 228.17, 106.29, 328.56) },
-    { name = 'Fleeca Bank - Legion', coords = vec4(147.0, -1046.0, 29.37, 340.0) },
     { name = 'Diamond Casino', coords = vec4(928.39, 55.03, 59.87, 167.44) },
     { name = 'Paleto Bank', coords = vec4(-114.22, 6474.03, 31.63, 37.98) },
     { name = 'Vangelico Jewelry', coords = vec4(-630.5, -237.13, 38.05, 204.69) },
