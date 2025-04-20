@@ -32,7 +32,8 @@ for _, dept in ipairs(policeDepartments) do
                     local input = lib.inputDialog(dept.name .. ' Dispatch Alert', {
                         { type = 'input', label = 'Location Name', description = 'e.g. Legion Square', required = true },
                         { type = 'input', label = 'Reason for Call', description = 'e.g. Officer in need of assistance', required = true },
-                        { type = 'select', label = 'Priority', options = {
+                         { type = 'input', label = 'Code', description = '10-80', required = true },
+                         { type = 'select', label = 'Priority', options = {
                             { label = 'Priority 1 (Urgent)', value = 1 },
                             { label = 'Priority 2 (Medium)', value = 2 },
                             { label = 'Priority 3 (Low)', value = 3 },
@@ -43,6 +44,7 @@ for _, dept in ipairs(policeDepartments) do
 
                     local locationLabel = input[1]
                     local reason = input[2]
+                    local code = input[3]
                     local priority = tonumber(input[3])
                     local waypoint = GetFirstBlipInfoId(8)
 
@@ -59,7 +61,7 @@ for _, dept in ipairs(policeDepartments) do
 
                     exports['ps-dispatch']:CustomAlert({
                         message = dept.name .. ' Manual Dispatch: ' .. locationLabel .. '\nReason: ' .. reason,
-                        code = '99',
+                        code = code,
                         icon = 'fa-solid fa-bullhorn',
                         priority = priority,
                         coords = coords
