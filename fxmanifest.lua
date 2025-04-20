@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'shreddykr'
-description 'Dispatcher Menu using ox_lib'
-version '1.0.0'
+description 'Dispatcher Menu using ox_lib & ps-dispatch'
+version '1.0.1'
 
 lua54 'yes'
 
