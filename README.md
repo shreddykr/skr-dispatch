@@ -26,3 +26,5 @@ Options: Send Alarm or Cancel
 Prevents accidental alerts, giving the player full control.
 
 Once confirmed, a custom dispatch alert is sent with the bank’s name and player’s location.
+
+https://streamable.com/q9y3ls
