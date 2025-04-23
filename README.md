@@ -35,7 +35,16 @@ A text box replaces the default 99 label in ps-dispatch for cleaner, context-awa
 
 🎥 [Preview Video](https://streamable.com/q9y3ls) (Slightly Outdated)
 
+----------------------------------------------------------------------------------------------------------
+
+v1.0.3 Pre Release Changelog
+
+🔹 Emote for when the player is using the menu - makes it easier for people robbing the banks to see if a player is using the menu or not
+
+🔹 Job Requirements for Police Dispatch
+
 -----------------------------------------------------------------------------------------------------------
+
 🔧 Dependencies
 
 [ps-dispatch (Project Sloth)](https://github.com/Project-Sloth/ps-dispatch)
