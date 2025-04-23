@@ -5,15 +5,15 @@ A highly immersive and modular Dispatcher & Alarm system for FiveM servers runni
 🔹 Police Department Dispatch Menus
 Each department has its own custom menu (e.g. MRPD, Roxwood, Sandy, Paleto). Dispatchers can:
 
-Type in a location name
+🔹 Type in a location name
 
-Enter a reason for the alert
+🔹 Enter a reason for the alert
 
-Set a priority level
+🔹 Set a priority level
 
-The alert uses your map waypoint coordinates automatically 📍
+🔹 The alert uses your map waypoint coordinates automatically 📍
 
-Alerts are labeled (e.g. “MRPD Dispatch Alert”) so responders know the origin
+🔹 Alerts are labeled (e.g. “MRPD Dispatch Alert”) so responders know the origin
 
 🔹 Manual Dispatch Option
 Send fully customized alerts anywhere on the map by placing a waypoint. Perfect for active dispatchers!
@@ -35,7 +35,9 @@ A text box replaces the default 99 label in ps-dispatch for cleaner, context-awa
 
 🎥 [Preview Video](https://streamable.com/q9y3ls) (Slightly Outdated)
 
+
 🔧 Dependencies
+
 [ps-dispatch (Project Sloth)](https://github.com/Project-Sloth/ps-dispatch)
 
 ox_lib
