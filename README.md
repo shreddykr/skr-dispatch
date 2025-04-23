@@ -2,6 +2,7 @@
 A highly immersive and modular Dispatcher & Alarm system for FiveM servers running PS-Dispatch on QBCore — this resource transforms your emergency response experience with sleek menus powered by ox_lib, seamless alert integration via ps-dispatch, and precise waypoint-based coordination. Designed for realism and control, every alert is intentional, localized, and roleplay-friendly. 0.00ms ⚡
 
 ✨ Features
+
 🔹 Police Department Dispatch Menus
 Each department has its own custom menu (e.g. MRPD, Roxwood, Sandy, Paleto). Dispatchers can:
 
