@@ -44,6 +44,12 @@ v1.0.3 Pre Release Changelog
 🔹 Job Requirements for Police Dispatch
 
 -----------------------------------------------------------------------------------------------------------
+🔧 Installation
+  1. Place skr-dispatch into resources folder
+  2. Ensure skr-dispatch in server.cfg
+  3. Done!
+     
+-----------------------------------------------------------------------------------------------------------
 
 🔧 Dependencies
 
