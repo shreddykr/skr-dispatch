@@ -35,7 +35,7 @@ A text box replaces the default 99 label in ps-dispatch for cleaner, context-awa
 
 🎥 [Preview Video](https://streamable.com/q9y3ls) (Slightly Outdated)
 
-
+-----------------------------------------------------------------------------------------------------------
 🔧 Dependencies
 
 [ps-dispatch (Project Sloth)](https://github.com/Project-Sloth/ps-dispatch)
