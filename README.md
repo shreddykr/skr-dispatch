@@ -11,7 +11,7 @@ Each department has its own custom menu (e.g. MRPD, Roxwood, Sandy, Paleto). Dis
 
 🔹 Set a priority level
 
-🔹 The alert uses your map waypoint coordinates automatically 📍
+🔹 The alert uses the dispatchers waypoint coordinates to automatically update the location of distress calls to all on duty PD 📍
 
 🔹 Alerts are labeled (e.g. “MRPD Dispatch Alert”) so responders know the origin
 
