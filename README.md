@@ -31,3 +31,13 @@ Slightly Outdated Video New Code Text Box Added that replaces the 99 on the ps-d
 
 https://streamable.com/q9y3ls
 
+Required:
+
+
+https://github.com/Project-Sloth/ps-dispatch
+
+
+ox_lib
+
+
+qbcore
