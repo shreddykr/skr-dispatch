@@ -1,5 +1,5 @@
 Dispatcher & Alarm Menu for FiveM (QBCore Compatible) 🚓🚨
-This dynamic Dispatcher and Alarm system for FiveM enhances roleplay for multiple police departments and banks, providing intuitive, location-based menus that integrate with ps-dispatch and ox_lib. Whether it’s sending urgent dispatches or triggering a silent bank alarm, this system ensures realism, control, and immersion. 🎯
+This dynamic Dispatcher and Alarm system for FiveM enhances roleplay for multiple police departments and banks, providing intuitive, location-based menus that integrate with ps-dispatch and ox_lib. Whether it’s sending urgent dispatches or triggering a silent bank alarm, this system ensures realism, control, and immersion. 0.00ms 🎯
 
 🔹 Police Department Dispatch Menus
 Each department (e.g., MRPD, Roxwood, Sandy, Paleto, etc.) gets its own custom dispatcher menu.
