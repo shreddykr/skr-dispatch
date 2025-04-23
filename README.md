@@ -60,6 +60,8 @@ ox_lib
 
 qb-core
 
+-----------------------------------------------------------------------------------------------------------
+
 💡 Why Use This?
 Whether you're staffing the dispatch center or robbing a bank with stealth in mind, this system brings both realism and function. Police know where alerts are coming from — and why. Bank alarms can't be misfired. Manual callouts are just a waypoint away. It's intuitive, it looks good, and it works right out of the box.
 
