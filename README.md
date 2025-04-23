@@ -1,5 +1,5 @@
 🚓 Dispatcher & Alarm Menu | QBCore Roleplay System w/ ps-dispatch + ox_lib 🚨
-A highly immersive and modular Dispatcher & Alarm system for FiveM servers running QBCore — this resource transforms your emergency response experience with sleek menus powered by ox_lib, seamless alert integration via ps-dispatch, and precise waypoint-based coordination. Designed for realism and control, every alert is intentional, localized, and roleplay-friendly. 0.00ms ⚡
+A highly immersive and modular Dispatcher & Alarm system for FiveM servers running PS-Dispatch on QBCore — this resource transforms your emergency response experience with sleek menus powered by ox_lib, seamless alert integration via ps-dispatch, and precise waypoint-based coordination. Designed for realism and control, every alert is intentional, localized, and roleplay-friendly. 0.00ms ⚡
 
 ✨ Features
 🔹 Police Department Dispatch Menus
