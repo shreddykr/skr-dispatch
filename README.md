@@ -1,43 +1,48 @@
-Dispatcher & Alarm Menu for FiveM (QBCore Compatible) 🚓🚨
-This dynamic Dispatcher and Alarm system for FiveM enhances roleplay for multiple police departments and banks, providing intuitive, location-based menus that integrate with ps-dispatch and ox_lib. Whether it’s sending urgent dispatches or triggering a silent bank alarm, this system ensures realism, control, and immersion. 0.00ms 🎯
+🚓 Dispatcher & Alarm Menu | QBCore Roleplay System w/ ps-dispatch + ox_lib 🚨
+A highly immersive and modular Dispatcher & Alarm system for FiveM servers running QBCore — this resource transforms your emergency response experience with sleek menus powered by ox_lib, seamless alert integration via ps-dispatch, and precise waypoint-based coordination. Designed for realism and control, every alert is intentional, localized, and roleplay-friendly. 0.00ms ⚡
 
+✨ Features
 🔹 Police Department Dispatch Menus
-Each department (e.g., MRPD, Roxwood, Sandy, Paleto, etc.) gets its own custom dispatcher menu.
+Each department has its own custom menu (e.g. MRPD, Roxwood, Sandy, Paleto). Dispatchers can:
 
-Dispatchers can send manual alerts with:
+Type in a location name
 
-A location name
+Enter a reason for the alert
 
-A reason for the call
+Set a priority level
 
-A priority level
+The alert uses your map waypoint coordinates automatically 📍
 
-The alert automatically pulls coordinates from the player’s waypoint on the map. 📍
+Alerts are labeled (e.g. “MRPD Dispatch Alert”) so responders know the origin
 
-Alerts are tagged with the specific department name (e.g. “MRPD Dispatch Alert”), so responders know exactly where it's coming from.
+🔹 Manual Dispatch Option
+Send fully customized alerts anywhere on the map by placing a waypoint. Perfect for active dispatchers!
 
 🔹 Bank Alarm Confirmation System
-Banks like Pacific Bank, Fleeca, Paleto, and Vangelico Jewelry have built-in hidden alarm spots.
+Banks like Pacific Standard, Fleeca, Paleto, and Vangelico Jewelry include hidden alarm triggers. Players are shown a confirmation dialog before dispatching an alert:
 
-Players are prompted with a confirmation menu before the silent alarm is sent.
+✅ Send Alarm
 
-Options: Send Alarm or Cancel
+❌ Cancel
 
-Prevents accidental alerts, giving the player full control.
+This avoids accidental callouts and keeps immersion high. Upon confirmation, a custom ps-dispatch alert is sent with the bank's name and coordinates.
 
-Once confirmed, a custom dispatch alert is sent with the bank’s name and player’s location.
+🔹 Modern Text UI Integration
+Stylish context menus and overlays powered by ox_lib. Player-friendly and visually consistent with top-tier roleplay servers.
 
-Slightly Outdated Video New Code Text Box Added that replaces the 99 on the ps-dispatch callout label
+🔹 New Code Upgrade
+A text box replaces the default 99 label in ps-dispatch for cleaner, context-aware alerts.
 
-https://streamable.com/q9y3ls
+🎥 [Preview Video](https://streamable.com/q9y3ls) (Slightly Outdated)
 
-Required:
-
-
-https://github.com/Project-Sloth/ps-dispatch
-
+🔧 Dependencies
+[ps-dispatch (Project Sloth)](https://github.com/Project-Sloth/ps-dispatch)
 
 ox_lib
 
+qb-core
 
-qbcore
+💡 Why Use This?
+Whether you're staffing the dispatch center or robbing a bank with stealth in mind, this system brings both realism and function. Police know where alerts are coming from — and why. Bank alarms can't be misfired. Manual callouts are just a waypoint away. It's intuitive, it looks good, and it works right out of the box.
+
+Ready to plug-and-play for dispatch centers and alarm systems across your whole map. 🌍
